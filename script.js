@@ -45,11 +45,11 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/arrietty.mp3",
-      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/you-get-me-so-high.mp3",
-      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/arrietty.mp3",
-      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/arrietty.mp3",
-      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/arrietty.mp3"
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/arrietty.mp3",
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/you-get-me-so-high.mp3",
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/arrietty.mp3",
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/arrietty.mp3",
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/arrietty.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
