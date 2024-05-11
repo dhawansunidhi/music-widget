@@ -49,8 +49,8 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7"],
     trackUrl = [
-      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/arrietty.mp3",
       "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/you-get-me-so-high.mp3",
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/arrietty.mp3",
       "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/leaving-tonight.mp3",
       "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/wires.mp3",
       "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/mirage.mp3", 
