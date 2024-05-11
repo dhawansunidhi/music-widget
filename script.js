@@ -30,8 +30,8 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "The Secret World of Arrietty",
       "The Neighbourhood",
+      "The Secret World of Arrietty",
       "The Neighbourhood",
       "The Neighbourhood",
       "Alexandria Savior",
@@ -39,8 +39,8 @@ $(function () {
       "Lana Del Rey"
     ],
     trackNames = [
-      "Arriety's Song",
       "You Get Me So High",
+      "Arriety's Song",
       "Leaving Tonight",
       "Wires",
       "Mirage", 
