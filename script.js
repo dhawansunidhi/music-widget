@@ -32,24 +32,30 @@ $(function () {
     albums = [
       "The Secret World of Arrietty",
       "The Neighbourhood",
-      "Electro Boy",
-      "Home",
-      "Proxy (Original Mix)"
+      "The Neighbourhood",
+      "The Neighbourhood",
+      "Alexandria Savior",
+      "Lana Del Rey",
+      "Lana Del Rey"
     ],
     trackNames = [
       "Arriety's Song",
       "You Get Me So High",
-      "Kaaze - Electro Boy",
-      "Jordan Schor - Home",
-      "Martin Garrix - Proxy"
+      "Leaving Tonight",
+      "Wires",
+      "Mirage", 
+      "Brooklyn Baby", 
+      "Blue Jeans"
     ],
-    albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
+    albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7"],
     trackUrl = [
       "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/arrietty.mp3",
       "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/you-get-me-so-high.mp3",
-      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/arrietty.mp3",
-      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/arrietty.mp3",
-      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/arrietty.mp3"
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/leaving-tonight.mp3",
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/wires.mp3",
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/mirage.mp3", 
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/brooklyn-baby.mp3", 
+      "https://raw.githubusercontent.com/dhawansunidhi/music-widget/main/music/blue-jeans.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
